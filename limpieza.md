@@ -17,3 +17,9 @@ Luego de que el content queda limpio se da fin al proceso de limpieza de los dat
 
 Para mayor entendimiento ver el siguiente grafico en el cual se explica el proceso que pasa la data para llegar al punto final que es un csv limpio para el trabajo en el indice invertido.
 ![](./diagram.png)
+
+
+## 1.2 Definición de tecnología de desarrollo para el algoritmo:
+
+* Lenguaje de Programación: Python - PySpark
+* Técnica Aplicada: Dataframes 
