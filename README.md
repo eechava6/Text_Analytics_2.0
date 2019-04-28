@@ -33,8 +33,5 @@ Adicionalmente, existen 2 notebooks diferentes debido a que el algoritmo plantea
 
 # 3. Análisis y Diseño - Clusterización
 
-* [Clusterización](cluster.md)
+* [Clusterización](clustering.md)
 
-## Análisis de resultados
-
-## Conclusiones
