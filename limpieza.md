@@ -12,4 +12,8 @@ stopwords en ingles.
 ![](./stopwords.png)
 Para esto se hace una lectura de los archivos y se hace una limpieza de las anteriores stopwords en la parte del content
 ![](./nltk.png)
+
 Luego de que el content queda limpio se da fin al proceso de limpieza de los datos y se almacenan en un .csv para los siguientes procesos del proyecto
+
+Para mayor entendimiento ver el siguiente grafico en el cual se explica el proceso que pasa la data para llegar al punto final que es un csv limpio para el trabajo en el indice invertido.
+![](./diagram.png)
