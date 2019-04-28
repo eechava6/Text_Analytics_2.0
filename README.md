@@ -1,5 +1,5 @@
 # Text-Analytics
-Proyecto 3 tópicos en telemática con las siguientes funcionalidades.
+Proyecto 3 de la materia Tópicos especiales en Telemática, realizar sobre la plataforma de DataBricks un analisis de texto con las siguientes características:
   - Limpieza de datos.
   - Creación de un índice invertido.
   - Clusterización de noticias con base a una palabra relacionada. 
