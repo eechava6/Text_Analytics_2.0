@@ -9,7 +9,7 @@ Proyecto 3 de la materia Tópicos especiales en Telemática, realizar sobre la p
 # Integrantes
   Esteban Echavarría Collazos - eechava6@eafit.edu.co <br> 
   
-  [Video Esteban Echavarria](www.youtube.com "Video Esteban Echavarria") <br>
+  [Video Esteban Echavarria](https://www.youtube.com/watch?v=bN_1jhnl_3Q&feature=youtu.be "Video Esteban Echavarria") <br>
  
   Esteban Perez Noreña - eperezn@eafit.edu.co <br> 
   
