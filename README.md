@@ -13,7 +13,7 @@ Proyecto 3 de la materia Tópicos especiales en Telemática, realizar sobre la p
  
   Esteban Perez Noreña - eperezn@eafit.edu.co <br> 
   
-  [Video Esteban Perez](www.youtube.com "Video Esteban Perez") <br>
+  [Video Esteban Perez](https://youtu.be/7LTsMx6kLSU "Video Esteban Perez") <br>
   
   Diego Alejandro Cifuentes Garcia - dcifuen3@eafit.edu.co
   
