@@ -1,5 +1,11 @@
 # Text-Analytics
-Proyecto 2 tópicos en telemática. 
+Proyecto 3 tópicos en telemática con las siguientes funcionalidades.
+  - Limpieza de datos.
+  - Creación de un índice invertido.
+  - Clusterización de noticias con base a una palabra relacionada. 
+  
+ Todo fue creado y probado en Databricks Community.
+ 
 # Integrantes
   Esteban Echavarría Collazos - eechava6@eafit.edu.co <br> 
   
