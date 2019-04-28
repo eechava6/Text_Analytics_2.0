@@ -21,7 +21,7 @@ Proyecto 3 tópicos en telemática con las siguientes funcionalidades.
   
 **NOTA:**
 Se anexa el notebook de databricks, de esta forma si se desea probar es necesario unicamente importar este notebook en DataBricks y subir los datos en las rutas especificas indicadas en el notebook. 
-
+Adicionalmente, existen 2 notebooks diferentes debido a que el algoritmo planteado para el clustering hace uso de las StopWords para mejorar la predicción del modelo.
 
 # 1. Análisis y Diseño - Limpieza de datos.
 
