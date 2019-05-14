@@ -17,7 +17,7 @@ Proyecto 3 de la materia Tópicos especiales en Telemática, realizar sobre la p
   
   Diego Alejandro Cifuentes Garcia - dcifuen3@eafit.edu.co
   
-  [Video Diego Cifuentes](www.youtube.com "Video Diego Cifuentes") <br>
+  [Video Diego Cifuentes](https://drive.google.com/open?id=1_P5_C5YT0Xp4kuuqzGVmwoP65ZK0S0X_ "Video Diego Cifuentes") <br>
   
 **NOTA:**
 Se anexa el notebook de databricks, de esta forma si se desea probar es necesario unicamente importar este notebook en DataBricks y subir los datos en las rutas especificas indicadas en el notebook. 
